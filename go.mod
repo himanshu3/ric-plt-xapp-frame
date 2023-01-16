@@ -1,4 +1,4 @@
-module gerrit.o-ran-sc.org/r/ric-plt/xapp-frame
+module github.com/himanshu3/ric-plt-xapp-frame
 
 go 1.16
 

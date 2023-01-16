@@ -91,7 +91,7 @@ Software Deliverables
 +++++++++++++++++++++
 
 This version provides Golang package for xapp-frame
-It can be retrieved from https://gerrit.o-ran-sc.org/r/ric-plt/xapp-frame.
+It can be retrieved from https://github.com/himanshu3/ric-plt-xapp-frame.
 
 
 

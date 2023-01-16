@@ -31,7 +31,7 @@ Make sure that following tools are properly installed and configured
 ```go
 package main
 
-import "gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/xapp"
+import "github.com/himanshu3/ric-plt-xapp-frame/pkg/xapp"
 
 type ExampleXapp struct {
 }
@@ -50,7 +50,7 @@ func main() {
 ```
 #### Building and running the example xapp
 
-    git clone https://gerrit.o-ran-sc.org/r/ric-plt/xapp-frame
+    git clone https://github.com/himanshu3/ric-plt-xapp-frame
     cd xapp-frame
 
 #### To generate an executable binary for our sample xApp application, run the following command:

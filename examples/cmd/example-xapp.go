@@ -23,8 +23,8 @@ package main
 
 import (
 	"gerrit.o-ran-sc.org/r/ric-plt/alarm-go.git/alarm"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/clientmodel"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/xapp"
+	"github.com/himanshu3/ric-plt-xapp-frame/pkg/clientmodel"
+	"github.com/himanshu3/ric-plt-xapp-frame/pkg/xapp"
 	"net/http"
 )
 

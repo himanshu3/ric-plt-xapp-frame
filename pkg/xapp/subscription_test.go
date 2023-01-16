@@ -14,9 +14,9 @@ import (
 	"testing"
 	"time"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/clientmodel"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/models"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/restapi/operations/common"
+	"github.com/himanshu3/ric-plt-xapp-frame/pkg/clientmodel"
+	"github.com/himanshu3/ric-plt-xapp-frame/pkg/models"
+	"github.com/himanshu3/ric-plt-xapp-frame/pkg/restapi/operations/common"
 	"github.com/stretchr/testify/assert"
 )
 

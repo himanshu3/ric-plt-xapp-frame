@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/xapp"
+	"github.com/himanshu3/ric-plt-xapp-frame/pkg/xapp"
 )
 
 type Forwarder struct {

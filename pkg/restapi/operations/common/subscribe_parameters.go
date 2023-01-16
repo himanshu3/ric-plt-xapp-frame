@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/runtime/middleware"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/models"
+	"github.com/himanshu3/ric-plt-xapp-frame/pkg/models"
 )
 
 // NewSubscribeParams creates a new SubscribeParams object
